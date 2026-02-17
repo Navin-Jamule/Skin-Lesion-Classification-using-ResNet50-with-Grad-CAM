@@ -1,0 +1,2 @@
+# Skin-Lesion-Classification-using-ResNet50-with-Grad-CAM
+Web-based decision support system for classifying dermoscopic skin images as benign or malignant using a fine-tuned ResNet50 deep learning model. The application provides prediction confidence and Grad-CAM visual explanations to highlight lesion-relevant regions. Developed with PyTorch and deployed using Streamlit for real-time image analysis.
